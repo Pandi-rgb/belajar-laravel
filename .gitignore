@@ -2,8 +2,8 @@
 .DS_Store
 .env
 .env.example
+/docs
 /.agents
-*.md
 .env.backup
 .env.production
 .phpactor.json
